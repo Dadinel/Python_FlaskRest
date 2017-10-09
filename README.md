@@ -11,3 +11,7 @@ pip install flask-jsonpify
 pip install flask-restful
 
 pip freeze
+
+
+# Running:
+python RestAPI.py
